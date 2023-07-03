@@ -1,0 +1,41 @@
+{
+    "Signup correctos": [
+      {
+        "username": "trinigil",
+        "password": "trini123",
+        "mail": "mtgil@uc.cl"
+      },
+      {
+    "username": "tereporzio",
+      "password": "tere123",
+      "mail": "mtporzio@uc.cl"
+      },
+      {
+        "username": "borja12",
+        "password": "borjap",
+        "mail": "borja@uc.cl"
+      },
+      {
+        "username": "maria122",
+        "password": "maria2001",
+        "mail": "soybacan@uc.cl"
+      }
+
+
+    ],
+
+    "actualizar_turno":[
+    {
+        "idJuego": "0"
+    }
+],
+
+
+    "casillas_libres":[
+    {
+        "idCasilla": "Entregar id de la casilla que se quiere manejar"
+    }
+]
+
+
+}
